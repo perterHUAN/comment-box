@@ -1,0 +1,6 @@
+.sort-by {
+  display: none;
+}
+.sort-by-icon:hover + .sort-by {
+  display: block;
+}
